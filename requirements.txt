@@ -1,0 +1,7 @@
+transformers==4.20.1
+sentencepiece==0.1.96
+python-Levenshtein==0.12.2
+fuzzywuzzy==0.18.0
+sentence-transformers==2.0.0
+protobuf==3.19.1
+jupyter==1.0.0
